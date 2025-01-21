@@ -1,2 +1,3 @@
 Name: Natalie O'Dell
 Favorite Subject: Comupter Science
+Learning Git is fun!
